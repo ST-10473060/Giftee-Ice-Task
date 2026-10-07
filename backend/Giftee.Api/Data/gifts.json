@@ -35,7 +35,7 @@
   {
     "name": "Board Game Night Bundle",
     "category": "Games",
-    "tags": [ "games", "friends", "tv" ],
+    "tags": [ "games", "group", "tv", "the traitors" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 10,
     "maxAge": 70,
@@ -101,7 +101,7 @@
   {
     "name": "Gaming Controller",
     "category": "Gaming",
-    "tags": [ "gaming", "gadgets", "games" ],
+    "tags": [ "gaming", "gadgets", "games", "arcane", "squid game", "the traitors" ],
     "personalities": [ "introvert", "extrovert" ],
     "minAge": 10,
     "maxAge": 50,
@@ -123,7 +123,7 @@
   {
     "name": "Polaroid Instant Camera",
     "category": "Tech",
-    "tags": [ "photography", "travel", "art", "friends" ],
+    "tags": [ "photography", "travel", "art", "group" ],
     "personalities": [ "creative", "extrovert", "adventurous" ],
     "minAge": 10,
     "maxAge": 55,
@@ -145,7 +145,7 @@
   {
     "name": "Live Concert Voucher",
     "category": "Experiences",
-    "tags": [ "music", "concerts", "live", "pop", "rock", "hip-hop" ],
+    "tags": [ "music", "concerts", "live", "pop", "rock", "hip-hop", "billie eilish", "bruno mars", "adele", "olivia rodrigo", "harry styles", "lady gaga", "katy perry", "halsey", "sabrina carpenter", "benson boone", "louis tomlinson", "liam payne", "renee rapp", "reneé rapp", "zara larsson", "rita ora", "ellie goulding", "ed sheeran", "dean lewis", "beyonce", "beyoncé", "rihanna", "tinashe", "chloe", "chlöe", "pink" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 16,
     "maxAge": 45,
@@ -156,7 +156,7 @@
   {
     "name": "Acoustic Guitar Starter Kit",
     "category": "Music",
-    "tags": [ "music", "guitar", "rock", "creative" ],
+    "tags": [ "music", "guitar", "rock", "creative", "ed sheeran", "shawn mendes", "niall horan", "lewis capaldi", "dean lewis", "james arthur", "george ezra", "tom walker", "pink", "noah kahan", "chris stapleton", "zach bryan", "tyler childers" ],
     "personalities": [ "creative", "introvert" ],
     "minAge": 10,
     "maxAge": 60,
@@ -167,7 +167,7 @@
   {
     "name": "Band Merch T-Shirt",
     "category": "Fashion",
-    "tags": [ "music", "rock", "pop", "fashion" ],
+    "tags": [ "music", "rock", "pop", "fashion", "taylor swift", "ariana grande", "justin bieber", "bruno mars", "adele", "lady gaga", "katy perry", "camila cabello", "charlie puth", "benson boone", "troye sivan", "madison beer", "bebe rexha", "anne-marie", "anne marie", "ellie goulding", "fletcher", "shawn mendes", "james arthur", "tom walker", "the weeknd", "pink", "rosalia", "rosalía", "gossip girl" ],
     "personalities": [ "creative", "extrovert" ],
     "minAge": 12,
     "maxAge": 50,
@@ -189,7 +189,7 @@
   {
     "name": "Karaoke Microphone Set",
     "category": "Music",
-    "tags": [ "music", "pop", "party", "friends" ],
+    "tags": [ "music", "pop", "party", "group", "bruno mars", "olivia rodrigo", "dua lipa", "harry styles", "selena gomez", "katy perry", "celine dion", "louis tomlinson", "liam payne", "troye sivan", "renee rapp", "reneé rapp", "madison beer", "ava max", "zara larsson", "ellie goulding", "kelly clarkson", "lewis capaldi", "dean lewis", "james arthur", "george ezra", "gracie abrams", "shakira", "anitta" ],
     "personalities": [ "extrovert", "creative" ],
     "minAge": 6,
     "maxAge": 45,
@@ -200,7 +200,7 @@
   {
     "name": "Framed Fan Poster Set",
     "category": "Home",
-    "tags": [ "tv", "film", "anime", "art", "home" ],
+    "tags": [ "tv", "film", "anime", "art", "home", "one piece" ],
     "personalities": [ "creative", "homebody" ],
     "minAge": 10,
     "maxAge": 60,
@@ -211,7 +211,7 @@
   {
     "name": "Anime Collectible Figure",
     "category": "Collectibles",
-    "tags": [ "anime", "collectibles", "tv", "gaming" ],
+    "tags": [ "anime", "collectibles", "tv", "gaming", "arcane", "one piece" ],
     "personalities": [ "introvert", "creative" ],
     "minAge": 12,
     "maxAge": 45,
@@ -222,7 +222,7 @@
   {
     "name": "Fantasy Novel Boxed Set",
     "category": "Books",
-    "tags": [ "books", "fantasy", "reading", "tv" ],
+    "tags": [ "books", "fantasy", "reading", "tv", "the good place", "avatar the last airbender", "avatar: the last airbender", "one piece", "house of the dragon", "supernatural", "true blood", "wednesday" ],
     "personalities": [ "introvert", "homebody" ],
     "minAge": 12,
     "maxAge": 80,
@@ -233,7 +233,7 @@
   {
     "name": "True Crime Book And Journal",
     "category": "Books",
-    "tags": [ "true-crime", "books", "podcasts", "tv" ],
+    "tags": [ "true-crime", "books", "podcasts", "tv", "only murders in the building", "the wire", "dexter", "sherlock", "mindhunter", "true detective", "narcos", "better call saul" ],
     "personalities": [ "introvert", "homebody" ],
     "minAge": 16,
     "maxAge": 60,
@@ -244,7 +244,7 @@
   {
     "name": "Comedy Night In Hamper",
     "category": "Home",
-    "tags": [ "comedy", "tv", "snacks", "home" ],
+    "tags": [ "comedy", "tv", "snacks", "home", "arrested development", "curb your enthusiasm", "30 rock", "how i met your mother", "himym", "parks and recreation", "community", "freaks and geeks", "entourage", "it's always sunny in philadelphia", "its always sunny in philadelphia", "schitt's creek", "schitts creek", "veep", "abbott elementary", "hacks", "the rehearsal", "reservation dogs", "atlanta", "the marvelous mrs maisel", "the marvelous mrs. maisel", "beef", "the good place", "barry", "poker face", "only murders in the building", "ted lasso", "bojack horseman", "rick and morty" ],
     "personalities": [ "extrovert", "homebody" ],
     "minAge": 14,
     "maxAge": 70,
@@ -255,7 +255,7 @@
   {
     "name": "Horror Movie Marathon Kit",
     "category": "Entertainment",
-    "tags": [ "horror", "film", "tv", "snacks", "friends" ],
+    "tags": [ "horror", "film", "tv", "snacks", "group", "supernatural", "true blood", "wednesday", "the walking dead", "the haunting of hill house", "yellowjackets", "the last of us", "hannibal" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 16,
     "maxAge": 50,
@@ -266,7 +266,7 @@
   {
     "name": "Sci-Fi Building Brick Set",
     "category": "Games",
-    "tags": [ "sci-fi", "building", "games", "tv", "creative" ],
+    "tags": [ "sci-fi", "building", "games", "tv", "creative", "rick and morty", "lost", "battlestar galactica", "black mirror", "westworld", "severance", "andor", "firefly", "mandalorian", "the mandalorian", "fallout", "squid game", "the traitors", "loki" ],
     "personalities": [ "creative", "introvert" ],
     "minAge": 8,
     "maxAge": 60,
@@ -277,7 +277,7 @@
   {
     "name": "Football Jersey",
     "category": "Sports",
-    "tags": [ "sports", "football", "fashion" ],
+    "tags": [ "sports", "football", "fashion", "ted lasso", "friday night lights" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 8,
     "maxAge": 60,
@@ -343,7 +343,7 @@
   {
     "name": "Insulated Travel Mug",
     "category": "Lifestyle",
-    "tags": [ "coffee", "travel", "outdoors" ],
+    "tags": [ "coffee", "travel", "outdoors", "gilmore girls" ],
     "personalities": [ "adventurous", "homebody" ],
     "minAge": 10,
     "maxAge": 70,
@@ -354,7 +354,7 @@
   {
     "name": "Coffee Brewing Starter Kit",
     "category": "Cooking",
-    "tags": [ "coffee", "food", "home", "cooking" ],
+    "tags": [ "coffee", "food", "home", "cooking", "gilmore girls", "the bear" ],
     "personalities": [ "homebody", "creative" ],
     "minAge": 16,
     "maxAge": 75,
@@ -398,7 +398,7 @@
   {
     "name": "Charm Bracelet",
     "category": "Fashion",
-    "tags": [ "jewellery", "fashion" ],
+    "tags": [ "jewellery", "fashion", "gossip girl" ],
     "personalities": [ "creative", "extrovert" ],
     "minAge": 10,
     "maxAge": 60,
@@ -420,7 +420,7 @@
   {
     "name": "Baking Starter Set",
     "category": "Cooking",
-    "tags": [ "baking", "cooking", "food", "home" ],
+    "tags": [ "baking", "cooking", "food", "home", "the bear" ],
     "personalities": [ "creative", "homebody" ],
     "minAge": 10,
     "maxAge": 80,
@@ -442,7 +442,7 @@
   {
     "name": "Escape Room Experience For Two",
     "category": "Experiences",
-    "tags": [ "puzzles", "games", "friends", "experience" ],
+    "tags": [ "puzzles", "games", "group", "experience", "the queens gambit", "the queen's gambit", "the traitors" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 12,
     "maxAge": 60,
@@ -453,7 +453,7 @@
   {
     "name": "1000-Piece Jigsaw Puzzle",
     "category": "Games",
-    "tags": [ "puzzles", "home", "art" ],
+    "tags": [ "puzzles", "home", "art", "the queens gambit", "the queen's gambit" ],
     "personalities": [ "introvert", "homebody" ],
     "minAge": 8,
     "maxAge": 85,
@@ -464,7 +464,7 @@
   {
     "name": "Mechanical Keyboard",
     "category": "Tech",
-    "tags": [ "coding", "tech", "gaming", "gadgets" ],
+    "tags": [ "coding", "tech", "gaming", "gadgets", "arcane", "mr robot", "mr. robot" ],
     "personalities": [ "introvert", "creative" ],
     "minAge": 12,
     "maxAge": 55,
@@ -475,7 +475,7 @@
   {
     "name": "Electronics Tinkering Kit",
     "category": "Tech",
-    "tags": [ "coding", "tech", "gadgets", "science" ],
+    "tags": [ "coding", "tech", "gadgets", "science", "the big bang theory", "mr robot", "mr. robot" ],
     "personalities": [ "introvert", "creative" ],
     "minAge": 10,
     "maxAge": 50,
@@ -497,7 +497,7 @@
   {
     "name": "Personalised Photo Book",
     "category": "Keepsakes",
-    "tags": [ "photography", "friends", "memories", "art" ],
+    "tags": [ "photography", "group", "memories", "art" ],
     "personalities": [ "creative", "homebody" ],
     "minAge": 10,
     "maxAge": 90,
@@ -516,7 +516,6 @@
     "maxPrice": 500,
     "description": "A place to record thoughts, goals and ideas."
   },
-
   {
     "name": "Apple AirPods Pro",
     "category": "Apple",
@@ -586,7 +585,7 @@
   {
     "name": "Apple Gift Card",
     "category": "Apple",
-    "tags": [ "apple", "music", "gaming", "tv", "apps", "tech" ],
+    "tags": [ "apple", "music", "gaming", "tv", "apps", "tech", "arcane" ],
     "personalities": [ "introvert", "extrovert" ],
     "minAge": 10,
     "maxAge": 80,
@@ -605,22 +604,21 @@
     "maxPrice": 1500,
     "description": "A protective sleeve and handy accessories for a MacBook."
   },
-
   {
-    "name": "Taylor Swift Vinyl Album Collection",
+    "name": "Pop Vinyl Album Collection",
     "category": "Music",
-    "tags": [ "taylor swift", "pop", "music", "vinyl", "collectibles" ],
+    "tags": [ "pop", "music", "vinyl", "collectibles", "justin bieber", "dua lipa", "charlie puth", "tate mcrae", "renee rapp", "reneé rapp", "bebe rexha", "anne-marie", "anne marie", "kelly clarkson", "fletcher", "george ezra", "beyonce", "beyoncé", "khalid", "normani", "rosalia", "rosalía", "jennifer lopez", "anitta" ],
     "personalities": [ "creative", "homebody" ],
     "minAge": 14,
     "maxAge": 50,
     "minPrice": 600,
     "maxPrice": 1800,
-    "description": "Her albums on vinyl for a dedicated Swiftie."
+    "description": "Pop albums on vinyl for a dedicated fan."
   },
   {
-    "name": "Taylor Swift Friendship Bracelet Kit",
+    "name": "Beaded Bracelet Kit",
     "category": "Crafts",
-    "tags": [ "taylor swift", "pop", "crafts", "jewellery", "creative" ],
+    "tags": [ "pop", "crafts", "jewellery", "creative", "dua lipa", "miley cyrus", "sabrina carpenter", "benson boone", "madison beer", "ava max", "anne-marie", "anne marie", "calum scott", "lewis capaldi", "mariah carey", "whitney houston", "king princess", "anitta" ],
     "personalities": [ "creative", "extrovert" ],
     "minAge": 10,
     "maxAge": 35,
@@ -629,31 +627,31 @@
     "description": "Beads and string to make and swap bracelets with friends."
   },
   {
-    "name": "Ariana Grande Fragrance Gift Set",
+    "name": "Pop Star Fragrance Gift Set",
     "category": "Beauty",
-    "tags": [ "ariana grande", "pop", "beauty", "self-care", "fashion" ],
+    "tags": [ "pop", "beauty", "self-care", "fashion", "taylor swift", "miley cyrus", "katy perry", "halsey", "sam smith", "camila cabello", "tate mcrae", "troye sivan", "ava max", "calum scott", "george ezra", "chloe", "chlöe", "noah cyrus" ],
     "personalities": [ "extrovert", "homebody" ],
     "minAge": 13,
     "maxAge": 45,
     "minPrice": 500,
     "maxPrice": 1500,
-    "description": "A scent set for fans of her pop-star style."
+    "description": "A scent set for fans of glamorous pop-star style."
   },
   {
-    "name": "Billie Eilish Oversized Hoodie",
+    "name": "Oversized Slouchy Hoodie",
     "category": "Fashion",
-    "tags": [ "billie eilish", "pop", "fashion", "music" ],
+    "tags": [ "pop", "indie", "fashion", "music", "taylor swift", "billie eilish", "justin bieber", "olivia rodrigo", "lady gaga", "selena gomez", "sam smith", "camila cabello", "charlie puth", "sabrina carpenter", "tate mcrae", "celine dion", "louis tomlinson", "liam payne", "troye sivan", "calum scott", "fletcher", "tom walker", "rihanna", "whitney houston", "zayn malik", "tinashe", "gracie abrams", "conan gray", "king princess", "pink", "steve lacy", "omar apollo", "joji", "noah kahan", "dominic fike" ],
     "personalities": [ "introvert", "creative" ],
     "minAge": 12,
     "maxAge": 35,
     "minPrice": 500,
     "maxPrice": 1200,
-    "description": "A slouchy, oversized hoodie in her signature style."
+    "description": "A slouchy, oversized hoodie in an alt-pop style."
   },
   {
-    "name": "The Weeknd Vinyl And Poster Set",
+    "name": "Late-Night R&B Vinyl And Poster Set",
     "category": "Music",
-    "tags": [ "the weeknd", "pop", "rnb", "music", "vinyl", "collectibles" ],
+    "tags": [ "rnb", "pop", "music", "vinyl", "collectibles", "taylor swift", "billie eilish", "justin bieber", "adele", "harry styles", "halsey", "benson boone", "celine dion", "troye sivan", "ava max", "zara larsson", "bebe rexha", "fletcher", "james arthur", "tom walker", "beyonce", "beyoncé", "the weeknd", "rihanna", "khalid", "mariah carey", "whitney houston", "normani", "zayn malik", "tinashe", "chloe", "chlöe", "conan gray", "noah cyrus", "shakira", "anitta", "sza", "alicia keys", "john legend", "usher", "chris brown", "frank ocean", "daniel caesar", "her", "h.e.r.", "kehlani", "summer walker", "jhene aiko", "jhené aiko", "victoria monet", "sir", "steve lacy", "omar apollo", "joji", "kali uchis", "tems", "ty dolla sign", "ty dolla $ign" ],
     "personalities": [ "introvert", "creative" ],
     "minAge": 15,
     "maxAge": 45,
@@ -662,20 +660,20 @@
     "description": "A vinyl record and wall art for a late-night R&B fan."
   },
   {
-    "name": "Dua Lipa Dance Party Kit",
+    "name": "Dance Party Kit",
     "category": "Music",
-    "tags": [ "dua lipa", "pop", "party", "music", "friends" ],
+    "tags": [ "pop", "party", "music", "group", "ariana grande", "bruno mars", "olivia rodrigo", "dua lipa", "harry styles", "miley cyrus", "selena gomez", "sam smith", "tate mcrae", "celine dion", "louis tomlinson", "liam payne", "madison beer", "rita ora", "kelly clarkson", "calum scott", "ed sheeran", "shawn mendes", "khalid", "whitney houston", "rosalia", "rosalía", "jennifer lopez" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 13,
     "maxAge": 45,
     "minPrice": 400,
     "maxPrice": 1200,
-    "description": "Disco lights and a speaker for dancing to her hits."
+    "description": "Disco lights and a speaker for dancing to pop hits."
   },
   {
-    "name": "Olivia Rodrigo Tee And Journal Set",
+    "name": "Songwriting Tee And Journal Set",
     "category": "Fashion",
-    "tags": [ "olivia rodrigo", "pop", "music", "writing", "fashion" ],
+    "tags": [ "pop", "indie", "music", "writing", "fashion", "ariana grande", "billie eilish", "justin bieber", "adele", "lady gaga", "miley cyrus", "halsey", "camila cabello", "charlie puth", "madison beer", "ava max", "zara larsson", "anne-marie", "anne marie", "rita ora", "ellie goulding", "calum scott", "fletcher", "shawn mendes", "niall horan", "dean lewis", "the weeknd", "rihanna", "mariah carey", "gracie abrams", "conan gray", "king princess", "steve lacy", "omar apollo", "joji", "noah kahan", "dominic fike" ],
     "personalities": [ "creative", "introvert" ],
     "minAge": 12,
     "maxAge": 30,
@@ -684,20 +682,20 @@
     "description": "A graphic tee and a journal for songwriting and big feelings."
   },
   {
-    "name": "Harry Styles Tour Style Tee And Tote",
+    "name": "Colourful Tee And Tote Set",
     "category": "Fashion",
-    "tags": [ "harry styles", "pop", "fashion", "music" ],
+    "tags": [ "pop", "fashion", "music", "ariana grande", "bruno mars", "adele", "dua lipa", "miley cyrus", "sam smith", "sabrina carpenter", "louis tomlinson", "liam payne", "bebe rexha", "kelly clarkson", "ed sheeran", "niall horan", "beyonce", "beyoncé", "mariah carey", "normani", "zayn malik", "chloe", "chlöe", "conan gray", "rosalia", "rosalía", "jennifer lopez" ],
     "personalities": [ "creative", "extrovert" ],
     "minAge": 13,
     "maxAge": 45,
     "minPrice": 300,
     "maxPrice": 900,
-    "description": "Colourful, playful pieces inspired by his stage style."
+    "description": "Colourful, playful pieces in a pop-concert style."
   },
   {
-    "name": "Ed Sheeran Songbook And Capo Set",
+    "name": "Songbook And Capo Set",
     "category": "Music",
-    "tags": [ "ed sheeran", "pop", "guitar", "music", "creative" ],
+    "tags": [ "guitar", "pop", "music", "creative", "billie eilish", "harry styles", "lady gaga", "selena gomez", "katy perry", "halsey", "sam smith", "camila cabello", "celine dion", "renee rapp", "reneé rapp", "bebe rexha", "rita ora", "ed sheeran", "shawn mendes", "niall horan", "lewis capaldi", "dean lewis", "james arthur", "george ezra", "tom walker", "the weeknd", "khalid", "normani", "zayn malik", "gracie abrams", "king princess", "noah cyrus", "shakira", "jennifer lopez", "noah kahan", "chris stapleton", "zach bryan", "tyler childers" ],
     "personalities": [ "creative", "introvert" ],
     "minAge": 12,
     "maxAge": 60,
@@ -705,22 +703,21 @@
     "maxPrice": 800,
     "description": "A songbook and capo so they can play along on guitar."
   },
-
   {
-    "name": "Drake Vinyl Collection",
+    "name": "Hip-Hop Vinyl Collection",
     "category": "Music",
-    "tags": [ "drake", "rap", "hip-hop", "music", "vinyl", "collectibles" ],
+    "tags": [ "rap", "hip-hop", "music", "vinyl", "collectibles", "doja cat", "nicki minaj", "kendrick lamar", "kanye west", "ye", "snoop dogg", "jay-z", "jay z", "future", "lil baby", "lil uzi vert", "xxxtentacion", "asap rocky", "a$ap rocky", "gunna", "lil durk", "young thug", "playboi carti", "latto", "jack harlow", "jid", "baby keem", "don toliver", "nle choppa", "kodak black", "sleepy hallow", "g herbo", "benny the butcher", "conway the machine", "westside gunn", "freddie gibbs", "vince staples", "joey badass", "joey bada$$", "tyga", "yg", "rich the kid", "offset", "takeoff", "lil yachty", "russ", "nf", "logic", "ab-soul", "jay rock", "isaiah rashad", "wale", "meek mill", "rick ross", "nelly", "busta rhymes", "nas", "dr dre", "dr. dre", "ice cube", "stormzy", "fredo" ],
     "personalities": [ "extrovert", "creative" ],
     "minAge": 16,
     "maxAge": 45,
     "minPrice": 700,
     "maxPrice": 1800,
-    "description": "His albums on vinyl for a serious hip-hop fan."
+    "description": "Hip-hop albums on vinyl for a serious fan."
   },
   {
-    "name": "Kendrick Lamar Vinyl And Poster Set",
+    "name": "Lyrical Rap Vinyl And Poster Set",
     "category": "Music",
-    "tags": [ "kendrick lamar", "rap", "hip-hop", "music", "vinyl", "collectibles" ],
+    "tags": [ "rap", "hip-hop", "music", "vinyl", "collectibles", "post malone", "nicki minaj", "drake", "eminem", "kendrick lamar", "kanye west", "ye", "travis scott", "lil wayne", "snoop dogg", "jay-z", "jay z", "lil baby", "21 savage", "lil uzi vert", "juice wrld", "tyler the creator", "tyler, the creator", "asap rocky", "a$ap rocky", "metro boomin", "lil durk", "young thug", "playboi carti", "ice spice", "latto", "coi leray", "jid", "rod wave", "polo g", "moneybagg yo", "conway the machine", "westside gunn", "freddie gibbs", "mac miller", "wiz khalifa", "big sean", "yg", "offset", "quavo", "lil yachty", "trippie redd", "rich brian", "russ", "nf", "g-eazy", "g eazy", "macklemore", "schoolboy q", "meek mill", "rick ross", "ludacris", "ice cube", "central cee", "dave", "headie one", "fredo", "tion wayne" ],
     "personalities": [ "introvert", "creative" ],
     "minAge": 16,
     "maxAge": 50,
@@ -729,20 +726,20 @@
     "description": "A vinyl record and wall art for a lyrics-first rap fan."
   },
   {
-    "name": "Travis Scott Style Streetwear Hoodie",
+    "name": "Bold Streetwear Hoodie",
     "category": "Fashion",
-    "tags": [ "travis scott", "rap", "hip-hop", "streetwear", "fashion" ],
+    "tags": [ "rap", "hip-hop", "streetwear", "fashion", "eminem", "kanye west", "ye", "travis scott", "j cole", "j. cole", "lil wayne", "snoop dogg", "future", "xxxtentacion", "tyler the creator", "tyler, the creator", "asap rocky", "a$ap rocky", "metro boomin", "young thug", "playboi carti", "glorilla", "megan thee stallion", "saweetie", "jack harlow", "baby keem", "don toliver", "rod wave", "polo g", "nle choppa", "kodak black", "lil tjay", "pop smoke", "sheff g", "sleepy hallow", "g herbo", "westside gunn", "freddie gibbs", "vince staples", "joey badass", "joey bada$$", "earl sweatshirt", "yg", "quavo", "takeoff", "trippie redd", "russ", "nf", "g-eazy", "g eazy", "logic", "action bronson", "danny brown", "ab-soul", "isaiah rashad", "meek mill", "50 cent", "busta rhymes", "notorious big", "the notorious b.i.g.", "notorious b.i.g.", "biggie", "dr dre", "dr. dre", "ice cube", "dave", "stormzy", "skepta", "digga d" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 13,
     "maxAge": 35,
     "minPrice": 600,
     "maxPrice": 1500,
-    "description": "A bold streetwear hoodie inspired by his look."
+    "description": "A bold streetwear hoodie with a hip-hop edge."
   },
   {
-    "name": "Eminem Vinyl Box Set",
+    "name": "Classic Rap Vinyl Box Set",
     "category": "Music",
-    "tags": [ "eminem", "rap", "hip-hop", "music", "vinyl", "vintage" ],
+    "tags": [ "rap", "hip-hop", "music", "vinyl", "vintage", "post malone", "nicki minaj", "drake", "travis scott", "j cole", "j. cole", "lil wayne", "snoop dogg", "jay-z", "jay z", "lil baby", "21 savage", "lil uzi vert", "juice wrld", "lil durk", "latto", "coi leray", "jack harlow", "jid", "denzel curry", "baby keem", "cordae", "don toliver", "rod wave", "polo g", "nle choppa", "kodak black", "pop smoke", "fivio foreign", "sheff g", "g herbo", "benny the butcher", "vince staples", "mac miller", "wiz khalifa", "big sean", "tyga", "yg", "rich the kid", "offset", "quavo", "rich brian", "nf", "g-eazy", "g eazy", "logic", "danny brown", "jay rock", "wale", "50 cent", "ludacris", "busta rhymes", "nas", "notorious big", "the notorious b.i.g.", "notorious b.i.g.", "biggie", "dr dre", "dr. dre", "central cee", "dave", "slowthai", "headie one", "ty dolla sign", "ty dolla $ign" ],
     "personalities": [ "introvert", "homebody" ],
     "minAge": 16,
     "maxAge": 55,
@@ -751,20 +748,20 @@
     "description": "Classic rap albums on vinyl for a long-time fan."
   },
   {
-    "name": "Cardi B Nail Art Kit",
-    "category": "Beauty",
-    "tags": [ "cardi b", "rap", "hip-hop", "beauty", "creative", "self-care" ],
-    "personalities": [ "creative", "extrovert" ],
-    "minAge": 13,
+    "name": "Cardi B Whipshots",
+    "category": "Food & Drink",
+    "tags": [ "cardi b", "rap", "hip-hop", "drinks", "party", "group" ],
+    "personalities": [ "extrovert", "adventurous" ],
+    "minAge": 18,
     "maxAge": 40,
     "minPrice": 250,
     "maxPrice": 700,
-    "description": "Bold nail colours and decorations for a glam look."
+    "description": "The rap superstar's vodka-infused whipped cream, for adults only."
   },
   {
-    "name": "Post Malone Tee And Vinyl Set",
+    "name": "Relaxed Tee And Vinyl Set",
     "category": "Music",
-    "tags": [ "post malone", "rap", "hip-hop", "pop", "music", "fashion" ],
+    "tags": [ "rap", "hip-hop", "pop", "music", "fashion", "taylor swift", "ariana grande", "olivia rodrigo", "selena gomez", "charlie puth", "sabrina carpenter", "tate mcrae", "benson boone", "renee rapp", "reneé rapp", "zara larsson", "anne-marie", "anne marie", "rita ora", "ellie goulding", "kelly clarkson", "niall horan", "lewis capaldi", "tinashe", "pink", "noah cyrus", "post malone", "doja cat", "nicki minaj", "shakira", "eminem", "kendrick lamar", "j cole", "j. cole", "jay-z", "jay z", "21 savage", "tyler the creator", "tyler, the creator", "metro boomin", "gunna", "young thug", "playboi carti", "ice spice", "latto", "glorilla", "saweetie", "jid", "denzel curry", "baby keem", "cordae", "rod wave", "kodak black", "moneybagg yo", "fivio foreign", "sheff g", "benny the butcher", "freddie gibbs", "joey badass", "joey bada$$", "earl sweatshirt", "mac miller", "wiz khalifa", "big sean", "tyga", "rich the kid", "takeoff", "lil yachty", "rich brian", "g-eazy", "g eazy", "macklemore", "logic", "action bronson", "ab-soul", "jay rock", "isaiah rashad", "wale", "50 cent", "busta rhymes", "nas", "notorious big", "the notorious b.i.g.", "notorious b.i.g.", "biggie", "tupac", "tupac shakur", "2pac", "dr dre", "dr. dre", "ice cube", "central cee", "slowthai", "fredo", "digga d", "tion wayne", "ty dolla sign", "ty dolla $ign" ],
     "personalities": [ "extrovert", "adventurous" ],
     "minAge": 15,
     "maxAge": 45,
@@ -773,20 +770,20 @@
     "description": "A relaxed tee and a vinyl record for a genre-blending fan."
   },
   {
-    "name": "Tyler, The Creator Bucket Hat And Tote",
+    "name": "Bucket Hat And Tote Set",
     "category": "Fashion",
-    "tags": [ "tyler the creator", "rap", "hip-hop", "fashion", "streetwear" ],
+    "tags": [ "rap", "hip-hop", "fashion", "streetwear", "post malone", "doja cat", "eminem", "lil wayne", "future", "21 savage", "juice wrld", "xxxtentacion", "gunna", "lil durk", "glorilla", "megan thee stallion", "coi leray", "saweetie", "denzel curry", "baby keem", "cordae", "don toliver", "polo g", "nle choppa", "moneybagg yo", "lil tjay", "fivio foreign", "sheff g", "sleepy hallow", "benny the butcher", "westside gunn", "joey badass", "joey bada$$", "earl sweatshirt", "mac miller", "tyga", "trippie redd", "macklemore", "action bronson", "danny brown", "schoolboy q", "jay rock", "isaiah rashad", "wale", "50 cent", "ludacris", "nelly", "nas", "tupac", "tupac shakur", "2pac", "central cee", "stormzy", "slowthai", "skepta", "headie one", "digga d", "tion wayne", "ty dolla sign", "ty dolla $ign" ],
     "personalities": [ "creative", "introvert" ],
     "minAge": 13,
     "maxAge": 35,
     "minPrice": 300,
     "maxPrice": 900,
-    "description": "Colourful accessories inspired by his playful style."
+    "description": "Colourful accessories with a playful streetwear style."
   },
   {
-    "name": "J. Cole Vinyl And Basketball Set",
+    "name": "Vinyl And Basketball Set",
     "category": "Music",
-    "tags": [ "j. cole", "rap", "hip-hop", "sports", "music", "vinyl" ],
+    "tags": [ "rap", "hip-hop", "sports", "music", "vinyl", "drake", "eminem", "kendrick lamar", "kanye west", "ye", "travis scott", "jay-z", "jay z", "lil baby", "xxxtentacion", "tyler the creator", "tyler, the creator", "asap rocky", "a$ap rocky", "metro boomin", "gunna", "young thug", "playboi carti", "ice spice", "glorilla", "megan thee stallion", "coi leray", "saweetie", "jack harlow", "denzel curry", "cordae", "don toliver", "rod wave", "moneybagg yo", "lil tjay", "pop smoke", "fivio foreign", "sheff g", "sleepy hallow", "g herbo", "benny the butcher", "conway the machine", "vince staples", "earl sweatshirt", "big sean", "tyga", "yg", "rich the kid", "offset", "quavo", "lil yachty", "trippie redd", "russ", "action bronson", "danny brown", "ab-soul", "schoolboy q", "jay rock", "meek mill", "rick ross", "50 cent", "nelly", "tupac", "tupac shakur", "2pac", "skepta", "fredo", "friday night lights" ],
     "personalities": [ "introvert", "adventurous" ],
     "minAge": 16,
     "maxAge": 45,
@@ -797,7 +794,7 @@
   {
     "name": "Beginner Beat Maker Pad",
     "category": "Music",
-    "tags": [ "rap", "hip-hop", "music", "creative", "gadgets" ],
+    "tags": [ "rap", "hip-hop", "music", "creative", "gadgets", "post malone", "doja cat", "drake", "kanye west", "ye", "j cole", "j. cole", "lil wayne", "future", "lil baby", "lil uzi vert", "juice wrld", "xxxtentacion", "asap rocky", "a$ap rocky", "metro boomin", "ice spice", "megan thee stallion", "jid", "denzel curry", "nle choppa", "kodak black", "moneybagg yo", "lil tjay", "pop smoke", "fivio foreign", "conway the machine", "freddie gibbs", "vince staples", "earl sweatshirt", "wiz khalifa", "big sean", "offset", "quavo", "takeoff", "lil yachty", "rich brian", "russ", "nf", "macklemore", "action bronson", "schoolboy q", "wale", "meek mill", "rick ross", "ludacris", "nelly", "busta rhymes", "notorious big", "the notorious b.i.g.", "notorious b.i.g.", "biggie", "tupac", "tupac shakur", "2pac", "dr dre", "dr. dre", "dave", "stormzy", "slowthai", "skepta", "headie one", "digga d", "tion wayne" ],
     "personalities": [ "creative", "introvert" ],
     "minAge": 12,
     "maxAge": 45,
@@ -805,11 +802,10 @@
     "maxPrice": 2000,
     "description": "A pad for making their own beats and loops."
   },
-
   {
     "name": "Modern Family Complete Series Box Set",
     "category": "Entertainment",
-    "tags": [ "modern family", "tv", "comedy", "family", "home" ],
+    "tags": [ "modern family", "tv", "comedy", "family", "home", "arrested development", "curb your enthusiasm", "30 rock", "how i met your mother", "himym", "parks and recreation", "community", "freaks and geeks", "entourage", "it's always sunny in philadelphia", "its always sunny in philadelphia", "schitt's creek", "schitts creek", "veep", "abbott elementary", "hacks", "the rehearsal", "reservation dogs", "the big bang theory", "atlanta", "the good place", "poker face", "ted lasso", "bojack horseman" ],
     "personalities": [ "homebody", "extrovert" ],
     "minAge": 12,
     "maxAge": 70,
@@ -820,7 +816,7 @@
   {
     "name": "Suits Cufflinks And Tie Set",
     "category": "Fashion",
-    "tags": [ "suits", "tv", "fashion", "law", "business" ],
+    "tags": [ "suits", "tv", "fashion", "law", "business", "succession" ],
     "personalities": [ "extrovert", "creative" ],
     "minAge": 16,
     "maxAge": 55,
@@ -831,7 +827,7 @@
   {
     "name": "Friends Central Perk Mug Set",
     "category": "Home",
-    "tags": [ "central perk", "tv", "comedy", "coffee", "home" ],
+    "tags": [ "central perk", "tv", "comedy", "coffee", "home", "arrested development", "curb your enthusiasm", "30 rock", "how i met your mother", "himym", "parks and recreation", "community", "freaks and geeks", "entourage", "it's always sunny in philadelphia", "its always sunny in philadelphia", "schitt's creek", "schitts creek", "veep", "abbott elementary", "hacks", "the rehearsal", "reservation dogs", "the big bang theory", "fleabag", "the marvelous mrs maisel", "the marvelous mrs. maisel", "beef", "gilmore girls", "barry", "only murders in the building", "ted lasso", "the white lotus", "bojack horseman" ],
     "personalities": [ "homebody", "extrovert" ],
     "minAge": 12,
     "maxAge": 70,
@@ -842,7 +838,7 @@
   {
     "name": "The Office Desk Set",
     "category": "Home",
-    "tags": [ "the office", "tv", "comedy", "office", "home" ],
+    "tags": [ "the office", "tv", "comedy", "office", "home", "arrested development", "curb your enthusiasm", "30 rock", "how i met your mother", "himym", "parks and recreation", "community", "freaks and geeks", "entourage", "it's always sunny in philadelphia", "its always sunny in philadelphia", "schitt's creek", "schitts creek", "veep", "abbott elementary", "hacks", "the rehearsal", "reservation dogs", "the big bang theory", "fleabag", "the good place", "barry", "poker face", "ted lasso" ],
     "personalities": [ "extrovert", "homebody" ],
     "minAge": 14,
     "maxAge": 60,
@@ -853,7 +849,7 @@
   {
     "name": "Stranger Things Retro Walkie-Talkies",
     "category": "Toys",
-    "tags": [ "stranger things", "tv", "sci-fi", "horror", "gadgets" ],
+    "tags": [ "stranger things", "tv", "sci-fi", "horror", "gadgets", "rick and morty", "supernatural", "true blood", "wednesday", "the walking dead", "the haunting of hill house", "yellowjackets", "the last of us", "lost", "battlestar galactica", "black mirror", "westworld", "severance", "andor", "firefly", "mandalorian", "the mandalorian", "fallout", "hannibal", "loki" ],
     "personalities": [ "adventurous", "creative" ],
     "minAge": 8,
     "maxAge": 45,
@@ -864,7 +860,7 @@
   {
     "name": "Breaking Bad Complete Series Box Set",
     "category": "Entertainment",
-    "tags": [ "breaking bad", "tv", "drama", "film" ],
+    "tags": [ "breaking bad", "tv", "drama", "film", "fleabag", "atlanta", "the marvelous mrs maisel", "the marvelous mrs. maisel", "beef", "gilmore girls", "the white lotus", "house of the dragon", "the walking dead", "the haunting of hill house", "yellowjackets", "the last of us", "lost", "battlestar galactica", "black mirror", "westworld", "severance", "andor", "fallout", "mad men", "deadwood", "rome", "house", "grey's anatomy", "greys anatomy", "the west wing", "chernobyl", "the crown", "the americans", "shogun", "shōgun", "baby reindeer", "homeland", "friday night lights", "gossip girl", "succession", "mr robot", "mr. robot", "the bear", "squid game", "better call saul", "the sopranos", "sons of anarchy", "the boys" ],
     "personalities": [ "introvert", "homebody" ],
     "minAge": 16,
     "maxAge": 65,
@@ -875,7 +871,7 @@
   {
     "name": "Game of Thrones Map And Book Set",
     "category": "Books",
-    "tags": [ "game of thrones", "tv", "fantasy", "books" ],
+    "tags": [ "game of thrones", "tv", "fantasy", "books", "the good place", "avatar the last airbender", "avatar: the last airbender", "one piece", "house of the dragon", "supernatural", "true blood", "wednesday" ],
     "personalities": [ "introvert", "homebody" ],
     "minAge": 16,
     "maxAge": 60,
@@ -886,7 +882,7 @@
   {
     "name": "Peaky Blinders Flat Cap And Braces Set",
     "category": "Fashion",
-    "tags": [ "peaky blinders", "tv", "fashion", "drama" ],
+    "tags": [ "peaky blinders", "tv", "fashion", "drama", "fleabag", "atlanta", "the marvelous mrs maisel", "the marvelous mrs. maisel", "beef", "gilmore girls", "the white lotus", "house of the dragon", "the walking dead", "the haunting of hill house", "yellowjackets", "the last of us", "lost", "battlestar galactica", "black mirror", "westworld", "severance", "andor", "fallout", "mad men", "deadwood", "rome", "house", "grey's anatomy", "greys anatomy", "the west wing", "chernobyl", "the crown", "the americans", "shogun", "shōgun", "baby reindeer", "homeland", "friday night lights", "gossip girl", "succession", "mr robot", "mr. robot", "the bear", "squid game", "the queens gambit", "the queen's gambit", "better call saul", "the sopranos", "sons of anarchy", "the boys" ],
     "personalities": [ "extrovert", "creative" ],
     "minAge": 16,
     "maxAge": 55,
@@ -897,7 +893,7 @@
   {
     "name": "Brooklyn Nine-Nine Complete Series Box Set",
     "category": "Entertainment",
-    "tags": [ "brooklyn nine-nine", "tv", "comedy", "film" ],
+    "tags": [ "brooklyn nine-nine", "tv", "comedy", "film", "arrested development", "curb your enthusiasm", "30 rock", "how i met your mother", "himym", "parks and recreation", "community", "freaks and geeks", "entourage", "it's always sunny in philadelphia", "its always sunny in philadelphia", "schitt's creek", "schitts creek", "veep", "abbott elementary", "hacks", "the rehearsal", "reservation dogs", "the big bang theory", "barry", "poker face", "only murders in the building", "the white lotus", "bojack horseman", "rick and morty" ],
     "personalities": [ "extrovert", "homebody" ],
     "minAge": 13,
     "maxAge": 60,
@@ -908,7 +904,7 @@
   {
     "name": "Cobra Kai Karate Gi And Headband Set",
     "category": "Sports",
-    "tags": [ "cobra kai", "tv", "drama", "karate", "sports", "fitness", "fashion" ],
+    "tags": [ "cobra kai", "tv", "drama", "karate", "sports", "fitness", "fashion", "fleabag", "atlanta", "the marvelous mrs maisel", "the marvelous mrs. maisel", "beef", "the white lotus", "house of the dragon", "the walking dead", "the haunting of hill house", "yellowjackets", "the last of us", "lost", "battlestar galactica", "black mirror", "westworld", "severance", "andor", "fallout", "mad men", "deadwood", "rome", "house", "grey's anatomy", "greys anatomy", "the west wing", "chernobyl", "the crown", "the americans", "shogun", "shōgun", "baby reindeer", "homeland", "friday night lights", "gossip girl", "succession", "mr robot", "mr. robot", "the bear", "squid game", "the queens gambit", "the queen's gambit", "better call saul", "the sopranos", "sons of anarchy", "the boys" ],
     "personalities": [ "adventurous", "extrovert" ],
     "minAge": 10,
     "maxAge": 50,
@@ -917,14 +913,102 @@
     "description": "A karate uniform and headband for fans of the dojo rivalry."
   },
   {
-    "name": "American Housewife Style Mug And Wine Tumbler Set",
-    "category": "Home",
-    "tags": [ "american housewife", "tv", "comedy", "family", "home" ],
-    "personalities": [ "homebody", "extrovert" ],
-    "minAge": 18,
+    "name": "Latin Dance Lesson Voucher",
+    "category": "Experiences",
+    "tags": [ "latin", "dance", "music", "experience", "party", "group", "rosalia", "rosalía", "shakira", "jennifer lopez", "anitta", "karol g", "bad bunny", "rauw alejandro", "j balvin", "maluma", "ozuna", "kali uchis" ],
+    "personalities": [ "extrovert", "adventurous" ],
+    "minAge": 14,
+    "maxAge": 60,
+    "minPrice": 300,
+    "maxPrice": 900,
+    "description": "A fun salsa or bachata lesson for anyone who loves Latin music."
+  },
+  {
+    "name": "Western Boots And Hat Set",
+    "category": "Fashion",
+    "tags": [ "country", "fashion", "music", "outdoors", "noah cyrus", "carrie underwood", "luke combs", "morgan wallen", "lainey wilson", "kacey musgraves", "chris stapleton", "zach bryan", "tyler childers" ],
+    "personalities": [ "adventurous", "extrovert" ],
+    "minAge": 14,
+    "maxAge": 60,
+    "minPrice": 700,
+    "maxPrice": 2500,
+    "description": "A cowboy-style outfit set for country music fans."
+  },
+  {
+    "name": "Afro-Print Statement Shirt",
+    "category": "Fashion",
+    "tags": [ "afrobeats", "fashion", "music", "party", "tems", "burna boy", "wizkid", "davido" ],
+    "personalities": [ "creative", "extrovert" ],
+    "minAge": 13,
+    "maxAge": 50,
+    "minPrice": 300,
+    "maxPrice": 900,
+    "description": "A bold, colourful shirt for fans of Afrobeats and dancing all night."
+  },
+  {
+    "name": "UK Streetwear Tracksuit",
+    "category": "Fashion",
+    "tags": [ "uk-rap", "rap", "hip-hop", "streetwear", "fashion", "doja cat", "nicki minaj", "drake", "kendrick lamar", "travis scott", "j cole", "j. cole", "snoop dogg", "future", "21 savage", "lil uzi vert", "juice wrld", "tyler the creator", "tyler, the creator", "gunna", "lil durk", "ice spice", "latto", "glorilla", "megan thee stallion", "coi leray", "saweetie", "jack harlow", "cordae", "polo g", "lil tjay", "pop smoke", "sleepy hallow", "g herbo", "conway the machine", "westside gunn", "joey badass", "joey bada$$", "mac miller", "wiz khalifa", "rich the kid", "takeoff", "trippie redd", "rich brian", "g-eazy", "g eazy", "macklemore", "logic", "danny brown", "ab-soul", "schoolboy q", "isaiah rashad", "rick ross", "ludacris", "nelly", "nas", "notorious big", "the notorious b.i.g.", "notorious b.i.g.", "biggie", "tupac", "tupac shakur", "2pac", "ice cube", "central cee", "dave", "stormzy", "slowthai", "skepta", "headie one", "fredo", "digga d", "tion wayne" ],
+    "personalities": [ "extrovert", "adventurous" ],
+    "minAge": 13,
+    "maxAge": 35,
+    "minPrice": 600,
+    "maxPrice": 1800,
+    "description": "A clean tracksuit in the style of the UK rap scene."
+  },
+  {
+    "name": "35mm Film Camera Kit",
+    "category": "Tech",
+    "tags": [ "indie", "photography", "art", "music", "vintage", "gracie abrams", "conan gray", "king princess", "steve lacy", "omar apollo", "joji", "noah kahan", "dominic fike" ],
+    "personalities": [ "creative", "introvert" ],
+    "minAge": 14,
+    "maxAge": 55,
+    "minPrice": 800,
+    "maxPrice": 2200,
+    "description": "A retro film camera and rolls for an indie, artsy eye."
+  },
+  {
+    "name": "R&B Night Gift Box",
+    "category": "Self-care",
+    "tags": [ "rnb", "music", "self-care", "home", "relaxation", "beyonce", "beyoncé", "the weeknd", "rihanna", "khalid", "mariah carey", "whitney houston", "normani", "zayn malik", "tinashe", "chloe", "chlöe", "sza", "alicia keys", "john legend", "usher", "chris brown", "frank ocean", "daniel caesar", "her", "h.e.r.", "kehlani", "summer walker", "jhene aiko", "jhené aiko", "victoria monet", "sir", "steve lacy", "omar apollo", "joji", "kali uchis", "tems", "ty dolla sign", "ty dolla $ign" ],
+    "personalities": [ "homebody", "introvert" ],
+    "minAge": 16,
+    "maxAge": 50,
+    "minPrice": 300,
+    "maxPrice": 900,
+    "description": "A candle, bath salts and a slow-jams playlist card for a smooth night in."
+  },
+  {
+    "name": "Detective Mystery Board Game",
+    "category": "Games",
+    "tags": [ "crime-drama", "true-crime", "games", "puzzles", "group", "barry", "poker face", "only murders in the building", "the queens gambit", "the queen's gambit", "the traitors", "the wire", "dexter", "sherlock", "mindhunter", "true detective", "narcos", "better call saul", "the sopranos", "sons of anarchy", "the shield", "fargo", "mare of easttown", "slow horses", "ripley", "hannibal", "daredevil" ],
+    "personalities": [ "introvert", "extrovert" ],
+    "minAge": 12,
     "maxAge": 70,
     "minPrice": 250,
     "maxPrice": 800,
-    "description": "A fun drinkware set for fans of the family sitcom."
+    "description": "A whodunnit to solve together, for fans of crime shows."
+  },
+  {
+    "name": "Animated Series Poster And Figure Set",
+    "category": "Collectibles",
+    "tags": [ "animation", "collectibles", "art", "tv", "anime", "bojack horseman", "rick and morty", "avatar the last airbender", "avatar: the last airbender", "arcane", "invincible", "x-men 97", "x-men '97", "one piece" ],
+    "personalities": [ "creative", "introvert" ],
+    "minAge": 10,
+    "maxAge": 45,
+    "minPrice": 300,
+    "maxPrice": 1500,
+    "description": "Wall art and a collectible figure for animation fans."
+  },
+  {
+    "name": "Superhero Comic Collection",
+    "category": "Books",
+    "tags": [ "superhero", "comics", "books", "collectibles", "tv", "invincible", "x-men 97", "x-men '97", "daredevil", "the boys", "wandavision", "loki" ],
+    "personalities": [ "introvert", "creative" ],
+    "minAge": 10,
+    "maxAge": 50,
+    "minPrice": 300,
+    "maxPrice": 1500,
+    "description": "A stack of comics for fans of superhero shows and films."
   }
 ]

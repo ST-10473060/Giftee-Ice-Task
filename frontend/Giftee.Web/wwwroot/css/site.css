@@ -2,6 +2,14 @@
     background: linear-gradient(90deg, #7b2ff7, #f107a3);
 }
 
+    .giftee-nav .nav-link {
+        opacity: .9;
+    }
+
+        .giftee-nav .nav-link:hover {
+            opacity: 1;
+        }
+
 .gift-card {
     transition: transform .15s ease;
 }
@@ -9,3 +17,93 @@
     .gift-card:hover {
         transform: translateY(-3px);
     }
+
+.giftee-hero {
+    background: linear-gradient(135deg, #7b2ff7, #f107a3);
+    border-radius: 1.5rem;
+    padding: 4rem 1.5rem;
+    box-shadow: 0 12px 30px rgba(123, 47, 247, .3);
+}
+
+.hero-emoji {
+    font-size: 7rem;
+    line-height: 1;
+    margin-bottom: .5rem;
+    filter: drop-shadow(0 8px 14px rgba(0, 0, 0, .3));
+    animation: gift-float 3s ease-in-out infinite;
+}
+
+@keyframes gift-float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hero-emoji {
+        animation: none;
+    }
+}
+
+.hero-tagline {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: .75rem;
+}
+
+.hero-lead {
+    max-width: 38rem;
+    margin: 0 auto 2rem;
+    font-size: 1.15rem;
+    opacity: .95;
+}
+
+.hero-btn {
+    color: #7b2ff7;
+    border-radius: 999px;
+    transition: transform .15s ease;
+}
+
+    .hero-btn:hover {
+        color: #f107a3;
+        transform: translateY(-2px);
+    }
+
+.step-card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 1rem;
+    padding: 2rem 1.5rem;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, .06);
+}
+
+.step-number {
+    width: 3rem;
+    height: 3rem;
+    margin: 0 auto 1rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #7b2ff7, #f107a3);
+    color: #fff;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.giftee-chip {
+    background: #f3ebff;
+    color: #5a1fc4;
+    border-radius: 999px;
+    padding: .5rem 1.1rem;
+    font-weight: 500;
+}
+
+.cta-panel {
+    background: #f6f0ff;
+    border-radius: 1.5rem;
+    padding: 3rem 1.5rem;
+}
