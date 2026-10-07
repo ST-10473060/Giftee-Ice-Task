@@ -752,14 +752,14 @@
   },
   {
     "name": "Cardi B Whipshots",
-    "category": "Beauty",
-    "tags": [ "cardi b", "rap", "hip-hop", "consumable", "creative" ],
-    "personalities": [ "creative", "extrovert" ],
-    "minAge": 13,
+    "category": "Food & Drink",
+    "tags": [ "cardi b", "rap", "hip-hop", "drinks", "party", "friends" ],
+    "personalities": [ "extrovert", "adventurous" ],
+    "minAge": 18,
     "maxAge": 40,
     "minPrice": 250,
     "maxPrice": 700,
-    "description": "The Rap superstar's vodka-infused whip cream'."
+    "description": "The rap superstar's vodka-infused whipped cream, for adults only."
   },
   {
     "name": "Post Malone Tee And Vinyl Set",
