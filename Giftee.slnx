@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/Giftee.Api/Giftee.Api.csproj" />
+  </Folder>
+</Solution>
