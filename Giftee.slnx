@@ -3,4 +3,7 @@
     <Project Path="backend/Giftee.Api/Giftee.Api.csproj" />
     <Project Path="backend/Giftee.Tests/Giftee.Tests.csproj" />
   </Folder>
+  <Folder Name="/frontend/">
+    <Project Path="frontend/Giftee.Web/Giftee.Web.csproj" />
+  </Folder>
 </Solution>
