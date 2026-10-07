@@ -751,15 +751,15 @@
     "description": "Classic rap albums on vinyl for a long-time fan."
   },
   {
-    "name": "Cardi B Nail Art Kit",
+    "name": "Cardi B Whipshots",
     "category": "Beauty",
-    "tags": [ "cardi b", "rap", "hip-hop", "beauty", "creative", "self-care" ],
+    "tags": [ "cardi b", "rap", "hip-hop", "consumable", "creative" ],
     "personalities": [ "creative", "extrovert" ],
     "minAge": 13,
     "maxAge": 40,
     "minPrice": 250,
     "maxPrice": 700,
-    "description": "Bold nail colours and decorations for a glam look."
+    "description": "The Rap superstar's vodka-infused whip cream'."
   },
   {
     "name": "Post Malone Tee And Vinyl Set",
