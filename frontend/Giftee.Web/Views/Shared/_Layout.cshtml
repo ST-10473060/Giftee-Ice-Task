@@ -10,7 +10,11 @@
 <body>
     <nav class="navbar navbar-dark giftee-nav mb-4">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="/">🎁 Giftee</a>
+            <a class="navbar-brand fw-bold" asp-controller="Home" asp-action="Index">🎁 Giftee</a>
+            <div class="d-flex gap-3">
+                <a class="nav-link text-white" asp-controller="Home" asp-action="Index">Home</a>
+                <a class="nav-link text-white fw-semibold" asp-controller="Gifts" asp-action="Index">Find a gift</a>
+            </div>
         </div>
     </nav>
     <main class="container pb-5">

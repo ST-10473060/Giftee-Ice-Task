@@ -1,8 +1,92 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="giftee-hero text-center text-white">
+    <div class="hero-emoji" aria-hidden="true">🎁</div>
+    <h1 class="display-3 fw-bold mb-2">Giftee</h1>
+    <p class="hero-tagline">The right gift, without the guesswork.</p>
+    <p class="hero-lead">
+        Tell us a little about your friend and Giftee suggests gifts they will actually like,
+        and tells you why each one fits.
+    </p>
+    <a asp-controller="Gifts" asp-action="Index" class="btn btn-light btn-lg px-5 fw-semibold hero-btn">Start</a>
+</section>
+
+<section class="my-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <h2 class="h3 fw-bold text-center mb-3">What is Giftee?</h2>
+            <p class="text-center text-muted fs-5">
+                Choosing a gift is hard when you are not sure what someone likes. You end up scrolling
+                for hours, grabbing something generic at the last minute, or giving a gift that never
+                gets used.
+            </p>
+            <p class="text-center text-muted fs-5">
+                Giftee takes the guesswork out of it. You tell us a few things about the person you are
+                buying for: how old they are, what you can spend, their favourite music artist and TV
+                show, what they are like, and what they are into. Giftee compares that with its
+                catalogue of gift ideas and shows you the best matches, along with the reasons each
+                one was picked.
+            </p>
+            <p class="text-center text-muted fs-5">
+                It is made for anyone buying for a friend on a budget, whether you are a student, short
+                on time, or you only know someone's taste a little.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <h2 class="h3 fw-bold text-center mb-4">How it works</h2>
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="step-card h-100 text-center">
+                <div class="step-number">1</div>
+                <h3 class="h5">Tell us about them</h3>
+                <p class="text-muted mb-0">
+                    Enter their age, your budget, their favourite artist and show, their personality
+                    and their interests. Even one detail is enough to get started.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="step-card h-100 text-center">
+                <div class="step-number">2</div>
+                <h3 class="h5">We find the matches</h3>
+                <p class="text-muted mb-0">
+                    Giftee keeps the gifts that suit their age and your budget, then scores each one
+                    against everything you told us.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="step-card h-100 text-center">
+                <div class="step-number">3</div>
+                <h3 class="h5">Pick the perfect gift</h3>
+                <p class="text-muted mb-0">
+                    You get a short list of ideas, each with a score and the reasons it was chosen,
+                    so you can choose with confidence.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5 text-center">
+    <h2 class="h3 fw-bold mb-3">What Giftee looks at</h2>
+    <div class="d-flex flex-wrap justify-content-center gap-2">
+        <span class="giftee-chip">Age</span>
+        <span class="giftee-chip">Budget</span>
+        <span class="giftee-chip">Favourite artist</span>
+        <span class="giftee-chip">Favourite TV show</span>
+        <span class="giftee-chip">Personality</span>
+        <span class="giftee-chip">Interests</span>
+    </div>
+</section>
+
+<section class="cta-panel text-center my-5">
+    <h2 class="h3 fw-bold mb-2">Ready to find a gift?</h2>
+    <p class="text-muted mb-4">It only takes a minute.</p>
+    <a asp-controller="Gifts" asp-action="Index" class="btn btn-primary btn-lg px-5 fw-semibold">Start</a>
+</section>
