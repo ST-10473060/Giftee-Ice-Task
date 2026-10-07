@@ -1,0 +1,83 @@
+﻿@model GiftForm
+@{
+    ViewData["Title"] = "Find the perfect gift";
+    var matches = ViewBag.Matches as List<GiftMatch>;
+    var error = ViewBag.Error as string;
+}
+
+<div class="text-center my-4">
+    <h1 class="display-5 fw-bold">Never stress about a gift again</h1>
+    <p class="lead text-muted">Tell us about your friend and Giftee picks something they'll love.</p>
+</div>
+
+@if (!string.IsNullOrEmpty(error))
+{
+    <div class="alert alert-danger">@error</div>
+}
+
+<form method="post" class="card card-body shadow-sm mb-4">
+    <div class="row g-3">
+        <div class="col-md-3">
+            <label asp-for="Age" class="form-label">Their age</label>
+            <input asp-for="Age" type="number" min="1" max="120" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <label asp-for="Budget" class="form-label">Budget (R)</label>
+            <input asp-for="Budget" type="number" min="0" class="form-control" />
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Personality" class="form-label">Personality</label>
+            <select asp-for="Personality" class="form-select">
+                <option value="">Not sure</option>
+                <option value="introvert">Introvert</option>
+                <option value="extrovert">Extrovert</option>
+                <option value="adventurous">Adventurous</option>
+                <option value="creative">Creative</option>
+                <option value="homebody">Homebody</option>
+            </select>
+        </div>
+        <div class="col-md-6">
+            <label asp-for="FavouriteArtist" class="form-label">Favourite music artist</label>
+            <input asp-for="FavouriteArtist" class="form-control" placeholder="e.g. Taylor Swift, Drake" />
+        </div>
+        <div class="col-md-6">
+            <label asp-for="FavouriteShow" class="form-label">Favourite TV show</label>
+            <input asp-for="FavouriteShow" class="form-control" placeholder="e.g. Suits, Modern Family" />
+        </div>
+        <div class="col-12">
+            <label asp-for="Interests" class="form-label">Interests (comma separated)</label>
+            <input asp-for="Interests" class="form-control" placeholder="e.g. music, gaming, hiking" />
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary btn-lg w-100">Find a gift</button>
+        </div>
+    </div>
+</form>
+
+@if (matches != null)
+{
+    <h2 class="h4 mb-3">Top gift ideas</h2>
+    <div class="row g-3">
+        @foreach (var m in matches)
+        {
+            <div class="col-md-6">
+                <div class="card h-100 shadow-sm gift-card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <h3 class="h5">@m.Gift.Name</h3>
+                            <span class="badge bg-success">@m.Score pts</span>
+                        </div>
+                        <p class="text-muted small mb-2">@m.Gift.Category · R @m.Gift.MinPrice.ToString("0") – R @m.Gift.MaxPrice.ToString("0")</p>
+                        <p>@m.Gift.Description</p>
+                        <ul class="small mb-0">
+                            @foreach (var r in m.Reasons)
+                            {
+                                <li>@r</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
