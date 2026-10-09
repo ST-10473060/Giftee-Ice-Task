@@ -118,7 +118,7 @@ Browser  →  Giftee.Web (ASP.NET Core MVC)  →  Giftee.Api (ASP.NET Core Web A
 
 *Project structure*
 
-
+```text
 .
 ├── .github/
 │   ├── workflows/ci.yml        # CI/CD pipeline
@@ -144,8 +144,7 @@ Browser  →  Giftee.Web (ASP.NET Core MVC)  →  Giftee.Api (ASP.NET Core Web A
 ├── .dockerignore
 ├── Giftee.slnx
 └── README.md
-
-
+```
 ## Run it locally
 
 *You need:* Git and Docker Desktop (with the engine running).
