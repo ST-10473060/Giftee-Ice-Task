@@ -15,7 +15,7 @@ Giftee is a gift recommendation web app. You tell it about a friend (their age, 
 | Pavankumar Naidu | [Student number] |
 | Desun Loganathan | ST10473408 |
 | Mohammed Luay Saib | ST10473899 |
-| Devesh Naidu | [Student number] |
+| Devesh Naidu | ST10473040 |
 | Khashif Ahmed Dawood | [Student number] |
 | Nabiha Osman | [Student number] |
 | Ismaeel Kajee | [Student number] |
