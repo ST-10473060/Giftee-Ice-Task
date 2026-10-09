@@ -18,7 +18,7 @@ Giftee is a gift recommendation web app. You tell it about a friend (their age, 
 | Devesh Naidu | ST10473040 |
 | Khashif Ahmed Dawood | ST10473281 |
 | Nabiha Osman | ST10470390 |
-| Ismaeel Kajee | ST10451713 |
+| Ismaeel Kajee | ST10451713|
 | Tyron James Seamark | ST10470368 |
 
 ## Contents
