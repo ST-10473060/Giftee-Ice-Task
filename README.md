@@ -21,6 +21,24 @@ Giftee is a gift recommendation web app. You tell it about a friend (their age, 
 | Ismaeel Kajee | [Student number] |
 | Tyron James Seamark | [Student number] |
 
+## Contents
+
+- [The problem](#the-problem)
+- [Target users](#target-users)
+- [Features](#features)
+- [Why music and TV](#why-music-and-tv)
+- [How the scoring works](#how-the-scoring-works)
+- [Tech stack](#tech-stack)
+- [Architecture](#architecture)
+- [Run it locally](#run-it-locally)
+- [Environment variables](#environment-variables)
+- [Tests](#tests)
+- [CI/CD](#cicd)
+- [Deployment](#deployment)
+- [Data sources and AI use](#data-sources-and-ai-use)
+- [Limitations](#limitations)
+- [References](#references)
+  
 ## The problem
 
 Buying a gift is stressful. You want something thoughtful, within your budget, and you often have little time. Surveys point to the same problems:
@@ -65,3 +83,91 @@ Scoring is in backend/Giftee.Api/Services/ScoringService.cs. It has two steps.
 | The personality type matches the gift | +2 |
 
 The top five gifts are returned, sorted by score and then alphabetically. Each result lists its reasons. If nothing matches, the first five eligible gifts are returned as "popular all-rounders"
+
+
+## Tech stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | ASP.NET Core MVC (.NET 10), Razor views, Bootstrap and custom CSS |
+| Backend | ASP.NET Core Web API (.NET 10), Swagger (Swashbuckle) |
+| Data | PostgreSQL through Entity Framework Core (Npgsql). Postgres 16 container locally, Neon in production |
+| Containers | Docker and Docker Compose |
+| CI/CD | GitHub Actions, CodeQL, Dependabot, GitHub Container Registry |
+| Hosting | Azure Container Apps (Consumption plan) and Neon (free tier) |
+
+## Architecture
+
+
+Browser  →  Giftee.Web (ASP.NET Core MVC)  →  Giftee.Api (ASP.NET Core Web API)  →  PostgreSQL
+
+
+- Giftee.Web renders the pages and calls the API over HTTP. The API address comes from API_BASE_URL.
+- Giftee.Api holds the scoring logic and the data. On first start it creates the table and loads the 92 gifts from gifts.json.
+- The same code runs locally (Docker Compose) and in the cloud. Only the environment variables change.
+
+*API endpoints*
+
+| Method | Path | Description |
+|---|---|---|
+| GET | /api/health | Health check |
+| GET | /api/gifts | All gifts, ordered by name |
+| POST | /api/recommendations | Ranked recommendations. Body: age, budget, personality, favouriteArtist, favouriteShow, interests |
+
+/api/recommendations requires an age between 1 and 120, a budget of zero or more, and at least one interest, artist, show or personality type.
+
+*Project structure*
+
+
+.
+├── .github/
+│   ├── workflows/ci.yml        # CI/CD pipeline
+│   └── dependabot.yml          # weekly dependency updates
+├── backend/
+│   ├── Giftee.Api/             # Web API
+│   │   ├── Data/               # DbContext, seeder, gifts.json
+│   │   ├── Models/
+│   │   ├── Services/           # ScoringService
+│   │   ├── Program.cs
+│   │   └── Dockerfile
+│   └── Giftee.Tests/           # unit tests
+├── frontend/
+│   └── Giftee.Web/             # MVC web app
+│       ├── Controllers/
+│       ├── Models/
+│       ├── Services/           # ApiClient
+│       ├── Views/
+│       ├── wwwroot/
+│       └── Dockerfile
+├── docker-compose.yml
+├── .env.example
+├── .dockerignore
+├── Giftee.slnx
+└── README.md
+
+
+## Run it locally
+
+*You need:* Git and Docker Desktop (with the engine running).
+
+1. Clone the repository and open the folder in a terminal.
+2. Create your .env file from the example.
+
+   Windows PowerShell:
+powershell
+   Copy-Item .env.example .env
+
+   macOS or Linux:
+bash
+   cp .env.example .env
+
+3. Start everything:
+bash
+   docker compose up --build
+
+4. Open *http://localhost:5200* in your browser. The API is at http://localhost:5100 (try /api/gifts).
+5. Stop it with docker compose down. Add -v to also delete the database volume.
+
+The first start creates the table and loads the gifts. The seeder only runs when the table is empty, so if you change gifts.json, run docker compose down -v and start again.
+
+Use Docker Compose to run the whole app. Starting one project from Visual Studio on its own has no database to connect to.
