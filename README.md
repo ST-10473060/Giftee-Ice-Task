@@ -19,7 +19,7 @@ Giftee is a gift recommendation web app. You tell it about a friend (their age, 
 | Khashif Ahmed Dawood | [Student number] |
 | Nabiha Osman | [Student number] |
 | Ismaeel Kajee | [Student number] |
-| Tyron James Seamark | [Student number] |
+| Tyron James Seamark | ST10470368 |
 
 ## Contents
 
